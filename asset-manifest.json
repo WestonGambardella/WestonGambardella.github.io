@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff9d5b08.css",
+    "main.js": "/static/js/main.5e8f147b.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/paws.PNG": "/static/media/paws.4ef8431509fb3a895377.PNG",
+    "static/media/paws-success.PNG": "/static/media/paws-success.e4e0d74e821f010c8642.PNG",
+    "static/media/paws-detail.PNG": "/static/media/paws-detail.2b601225f52bd209b60e.PNG",
+    "static/media/paws-mission.PNG": "/static/media/paws-mission.189fa97991d5890480c2.PNG",
+    "static/media/conflist.png": "/static/media/conflist.f5adfc9195d3e5d16de1.png",
+    "static/media/filigree.png": "/static/media/filigree.4f360c51385db7d067b8.png",
+    "static/media/conf.png": "/static/media/conf.3076b720b354d9a3b114.png",
+    "static/media/me.jpg": "/static/media/me.7f0d80943fd82034c01c.jpg",
+    "static/media/confcreate.png": "/static/media/confcreate.157dee3c5086cc0af966.png",
+    "static/media/carappt.PNG": "/static/media/carappt.db93ebb3bd2f0036d2be.PNG",
+    "static/media/Carunsold.PNG": "/static/media/Carunsold.15294326827ef41acaa3.PNG",
+    "static/media/Carsale.PNG": "/static/media/Carsale.18ca9ada1cd4563949fd.PNG",
+    "static/media/gitlablogo.png": "/static/media/gitlablogo.e84d46e9a07982e52c5a.png",
+    "index.html": "/index.html",
+    "main.ff9d5b08.css.map": "/static/css/main.ff9d5b08.css.map",
+    "main.5e8f147b.js.map": "/static/js/main.5e8f147b.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9d5b08.css",
+    "static/js/main.5e8f147b.js"
+  ]
+}
